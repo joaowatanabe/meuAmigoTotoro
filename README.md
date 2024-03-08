@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite] (https://wabemusic.github.io/meuAmigoTotoro/)
+- [Visite] (https://joaowatanabe.github.io/meuAmigoTotoro/)
